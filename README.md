@@ -1,5 +1,6 @@
 # quantiative_trade_lecture
 
 このレポジトリは定量的国際貿易モデルのレクチャーのために作られたものです。2023年8月現在では
-1. Computing_Eaton_Kortum_model_full_solution.ipynb
-だけ作られています。
+1. Computing_Eaton_Kortum_model_Full_solution.ipynb
+2. Computing_Eaton_Kortum_model_exact_hat_algebra.ipynb
+だけが作成されています。
